@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/001-ASM4参考手册翻译/001-ASM4参考手册翻译.iml" filepath="$PROJECT_DIR$/001-ASM4参考手册翻译/001-ASM4参考手册翻译.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002-解析类/002-解析类.iml" filepath="$PROJECT_DIR$/002-解析类/002-解析类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/003-类生成/003-类生成.iml" filepath="$PROJECT_DIR$/003-类生成/003-类生成.iml" />
     </modules>
   </component>
 </project>
