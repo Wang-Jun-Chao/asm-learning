@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/002-解析类/002-解析类.iml" filepath="$PROJECT_DIR$/002-解析类/002-解析类.iml" />
       <module fileurl="file://$PROJECT_DIR$/003-类生成/003-类生成.iml" filepath="$PROJECT_DIR$/003-类生成/003-类生成.iml" />
       <module fileurl="file://$PROJECT_DIR$/004-使用生成的类/004-使用生成的类.iml" filepath="$PROJECT_DIR$/004-使用生成的类/004-使用生成的类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/005-生成类/005-生成类.iml" filepath="$PROJECT_DIR$/005-生成类/005-生成类.iml" />
     </modules>
   </component>
 </project>
