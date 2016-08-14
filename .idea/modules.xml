@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/004-使用生成的类/004-使用生成的类.iml" filepath="$PROJECT_DIR$/004-使用生成的类/004-使用生成的类.iml" />
       <module fileurl="file://$PROJECT_DIR$/005-生成类/005-生成类.iml" filepath="$PROJECT_DIR$/005-生成类/005-生成类.iml" />
       <module fileurl="file://$PROJECT_DIR$/006-移除类成员/006-移除类成员.iml" filepath="$PROJECT_DIR$/006-移除类成员/006-移除类成员.iml" />
+      <module fileurl="file://$PROJECT_DIR$/007-添加类成员/007-添加类成员.iml" filepath="$PROJECT_DIR$/007-添加类成员/007-添加类成员.iml" />
     </modules>
   </component>
 </project>
